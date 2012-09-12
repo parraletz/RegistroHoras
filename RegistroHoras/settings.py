@@ -118,6 +118,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.admindocs',
     'RegistroHoras.Empleados',
+    'RegistroHoras.Actividades',
     'south',
 )
 
